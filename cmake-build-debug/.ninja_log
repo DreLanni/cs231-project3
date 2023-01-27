@@ -1,0 +1,6 @@
+# ninja log v5
+6	99	6963629701693822	CMakeFiles/Project3.dir/compare.c.obj	fcce64bed3593e4
+1	128	6963629701983820	CMakeFiles/Project3.dir/main.c.obj	d1870984232e4852
+2	49	6963654144952213	CMakeFiles/Project3.dir/lex.c.obj	22884af7dfe59d63
+1	97	6964466491633950	build.ninja	ab80fb165ecd577e
+49	113	6963654145562213	Project3.exe	6d590e44c63525f1
